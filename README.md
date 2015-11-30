@@ -1,7 +1,7 @@
 # TwoDimensionalChainSimulator
 This is a 2D linkage/chain simulatar. You can add balls, connect the balls (create structures) and see how the structure behaves.
 
-Easy Tutorial:
+Easy Tutorial: \n
 0. Install love2d 0.9.2 on your computer, https://love2d.org/ .
 1. Inside the folder TDSS, open the file "out.love".
 2. There must be a black screen (full screen), this is the simulator.
