@@ -3,7 +3,7 @@ This is a 2D linkage/chain simulatar. You can add balls, connect the balls (crea
 
 Easy Tutorial:
 <br>
-0. Install love2d 0.9.2 on your computer, https://love2d.org/ . <br>
+0. Install love2d 0.10.1 on your computer, https://love2d.org/ . <br>
 1. Inside the folder TDSS, open the file "out.love". <br>
 2. There must be a black screen (full screen), this is the simulator. <br>
 3. Press the key "a" to add a ball in the position of your cursor. <br>
